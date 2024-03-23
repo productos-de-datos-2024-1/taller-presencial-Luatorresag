@@ -33,6 +33,8 @@ def extract(cofig):
     #
     path = os.path.join(cofig["stagging_dir"], "*.csv.zip")
     filenames = glob.glob(path)
+    
+   
     dataframes = [pd.read_csv(f, compression="zip") for f in filenames]
     df = pd.concat(dataframes)
     #
