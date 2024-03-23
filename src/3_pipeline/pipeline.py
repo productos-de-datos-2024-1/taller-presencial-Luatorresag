@@ -1,4 +1,3 @@
-
 """ETL for importing house prices data from csv file to database"""
 
 import glob
@@ -120,5 +119,4 @@ def downsampling():
 if __name__ == "__main__":
     etl()
     move_files()
-
-
+    downsampling()
