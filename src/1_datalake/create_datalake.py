@@ -8,7 +8,7 @@ STRUCTURE_FILE = "datalake_structure.txt"
 
 
 def get_datalake_dirs():
-    """Returns the datalake directories stored in the file structure.txt"""
+    """Returns the datalake directocleries stored in the file structure.txt"""
 
     if not pkg_resources.resource_exists(__name__, STRUCTURE_FILE):
         raise FileNotFoundError(f"File {STRUCTURE_FILE} not found")

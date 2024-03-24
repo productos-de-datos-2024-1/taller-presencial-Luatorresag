@@ -1,0 +1,60 @@
+2024-03-23 11:51:54,693:INFO:Starting the application
+2024-03-23 11:51:55,566:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:51:55,566:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:51:55,568:INFO: * Restarting with stat
+2024-03-23 11:52:01,340:INFO:Starting the application
+2024-03-23 11:52:01,354:WARNING: * Debugger is active!
+2024-03-23 11:52:01,377:INFO: * Debugger PIN: 280-213-701
+2024-03-23 11:54:53,501:INFO:Starting the application
+2024-03-23 11:54:54,078:INFO:Starting the application
+2024-03-23 11:56:15,542:INFO:Starting the application
+2024-03-23 11:56:15,712:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:56:15,712:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:56:15,715:INFO: * Restarting with stat
+2024-03-23 11:56:17,380:INFO:Starting the application
+2024-03-23 11:56:17,391:WARNING: * Debugger is active!
+2024-03-23 11:56:17,416:INFO: * Debugger PIN: 280-213-701
+2024-03-23 11:57:45,057:INFO:127.0.0.1 - - [23/Mar/2024 11:57:45] "GET / HTTP/1.1" 200 -
+2024-03-23 11:58:11,071:INFO: * Detected change in 'c:\\Users\\LENOVO\\Desktop\\PRODUCTO DE DATOS\\taller-presencial-Luatorresag\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 11:58:11,784:INFO: * Restarting with stat
+2024-03-23 11:58:23,236:INFO:Starting the application
+2024-03-23 11:58:23,322:WARNING: * Debugger is active!
+2024-03-23 11:58:23,341:INFO: * Debugger PIN: 280-213-701
+2024-03-23 11:58:23,658:INFO:127.0.0.1 - - [23/Mar/2024 11:58:23] "GET / HTTP/1.1" 200 -
+2024-03-23 11:58:32,051:INFO:Starting the application
+2024-03-23 11:58:32,051:INFO:Aplication termined
+2024-03-23 11:58:32,346:INFO:Starting the application
+2024-03-23 11:58:41,696:INFO:Starting the application
+2024-03-23 11:58:41,818:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:58:41,819:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:58:41,823:INFO: * Restarting with stat
+2024-03-23 11:58:44,235:INFO:Starting the application
+2024-03-23 11:58:44,249:WARNING: * Debugger is active!
+2024-03-23 11:58:44,254:INFO: * Debugger PIN: 280-213-701
+2024-03-23 11:59:03,245:INFO:127.0.0.1 - - [23/Mar/2024 11:59:03] "GET / HTTP/1.1" 200 -
+2024-03-23 11:59:07,075:INFO:127.0.0.1 - - [23/Mar/2024 11:59:07] "GET / HTTP/1.1" 200 -
+2024-03-23 11:59:07,556:INFO:127.0.0.1 - - [23/Mar/2024 11:59:07] "GET / HTTP/1.1" 200 -
+2024-03-23 11:59:07,733:INFO:127.0.0.1 - - [23/Mar/2024 11:59:07] "GET / HTTP/1.1" 200 -
+2024-03-23 11:59:47,391:INFO:Starting the application
+2024-03-23 11:59:47,392:INFO:Aplication termined
+2024-03-23 11:59:47,533:INFO:Starting the application
+2024-03-23 11:59:47,533:INFO:Aplication termined
+2024-03-23 12:00:02,712:INFO:Starting the application
+2024-03-23 12:00:02,742:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:00:02,742:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:00:02,745:INFO: * Restarting with stat
+2024-03-23 12:00:04,125:INFO:Starting the application
+2024-03-23 12:00:04,137:WARNING: * Debugger is active!
+2024-03-23 12:00:04,143:INFO: * Debugger PIN: 280-213-701
+2024-03-23 12:00:27,228:INFO:127.0.0.1 - - [23/Mar/2024 12:00:27] "GET / HTTP/1.1" 200 -
+2024-03-23 12:06:28,727:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:06:46,577:INFO:Prediction: 381833.33
+2024-03-23 12:06:46,582:INFO:127.0.0.1 - - [23/Mar/2024 12:06:46] "POST / HTTP/1.1" 200 -
+2024-03-23 18:27:33,454:INFO:Starting the application
+2024-03-23 18:27:33,486:INFO:Aplication termined
+2024-03-23 18:27:43,503:INFO:Starting the application
+2024-03-23 18:27:43,629:INFO:Aplication termined
