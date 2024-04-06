@@ -1,0 +1,31 @@
+2024-04-06 08:30:21,986:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:30:21,986:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:30:21,987:INFO: * Restarting with stat
+2024-04-06 08:30:22,667:WARNING: * Debugger is active!
+2024-04-06 08:30:22,671:INFO: * Debugger PIN: 141-330-900
+2024-04-06 08:35:05,810:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:35:05,817:INFO:127.0.0.1 - - [06/Apr/2024 08:35:05] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:38:19,059:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:38:19,060:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:38:19,061:INFO: * Restarting with stat
+2024-04-06 08:38:19,932:WARNING: * Debugger is active!
+2024-04-06 08:38:19,934:INFO: * Debugger PIN: 141-330-900
+2024-04-06 08:41:21,188:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:41:21,189:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:41:21,191:INFO: * Restarting with stat
+2024-04-06 08:41:22,021:WARNING: * Debugger is active!
+2024-04-06 08:41:22,025:INFO: * Debugger PIN: 556-572-664
+2024-04-06 08:42:04,485:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:42:04,497:INFO:127.0.0.1 - - [06/Apr/2024 08:42:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:43:03,192:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:43:03,192:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:43:03,192:INFO: * Restarting with stat
+2024-04-06 08:43:03,972:WARNING: * Debugger is active!
+2024-04-06 08:43:03,975:INFO: * Debugger PIN: 556-572-664
+2024-04-06 08:43:13,729:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:44:02,603:INFO:Prediction: [1335305.55555556]
+2024-04-06 08:44:02,604:INFO:127.0.0.1 - - [06/Apr/2024 08:44:02] "POST / HTTP/1.1" 200 -
